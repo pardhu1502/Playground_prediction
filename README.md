@@ -104,18 +104,17 @@ Contributing
 
 You’re welcome to contribute improvements, optimizations, new features, or alternate modeling methods.
 
-Fork the repo
+-Fork the repo
 
-Create a feature branch
+-Create a feature branch
 
-Make your changes / improvements
+-Make your changes / improvements
 
-Commit and push
+-Commit and push
 
-Create a pull request
+-Create a pull request
 
 
-Contact
-Palli Pardha Saradhi Charan
-\n
-GitHub:https://github.com/pardhu1502
+🧠 Author
+- Maintained by: Palli Pardha Saradhi Charan
+- GitHub: pardhu1502
