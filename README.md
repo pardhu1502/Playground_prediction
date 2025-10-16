@@ -116,5 +116,6 @@ Create a pull request
 
 
 Contact
-Palli Pardha Saradhi CHaran
+Palli Pardha Saradhi Charan
+\n
 GitHub:https://github.com/pardhu1502
